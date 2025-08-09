@@ -1,5 +1,3 @@
-# Catspace Support
-
 Welcome! This page covers quick help and how to reach us.
 
 ## Frequently Asked
